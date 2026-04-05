@@ -162,7 +162,7 @@ cd shishen && claude plugin link .
 
 ## 🎋 日签
 
-每天一签。
+`/shishen:daily` 每天一签。
 
 ```
 ────── 十神日签 ──────
