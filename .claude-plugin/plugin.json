@@ -1,0 +1,10 @@
+{
+  "name": "shishen",
+  "description": "基于八字十神的 Claude Code 人格系统 — 你的赛博算命 buddy，聊感情、吐槽���做决定时脑子里的十个声音",
+  "version": "0.1.0",
+  "author": {
+    "name": "peggy-daddy"
+  },
+  "repository": "https://github.com/peggy-daddy/shishen",
+  "license": "MIT"
+}
